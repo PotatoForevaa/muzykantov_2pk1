@@ -2,3 +2,5 @@
 Console.WriteLine("Hello, World!");
 
 Console.WriteLine("этот текст появился в ветке first branch");
+
+Console.WriteLine("этот текст появился во втором коммите ветки");
